@@ -18,7 +18,7 @@ README.md AWS Engineer | DevOps Specialist | Cloud Enthusiast).  Skills list (AW
 - [Python Automation Scripts](link-to-repo)
 
 ## 📈 GitHub Stats
-![Ajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=camit4777&show_icons=true&theme=radical)
+![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=camit4777&show_icons=true&theme=radical)
 
 ---
 📫 Reach me: camit4777@gmail.com |https://www.linkedin.com/in/amit-kumar-0784641ab
